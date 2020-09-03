@@ -1,1 +1,1 @@
-# property_price_analysis
+# anomaly detection tutorials from https://towardsdatascience.com/anomaly-detection-for-dummies-15f148e559c1
